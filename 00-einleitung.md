@@ -12,4 +12,4 @@ Die Kommentierung trennt Anspruch oder Rechtsfolge, Voraussetzungen, systematisc
 
 ## Grenzen und Aktualisierung
 
-Die Ausgabe ist ein redaktioneller Arbeitsentwurf. Eine technische Validierung bestätigt weder die Richtigkeit jedes Auslegungsergebnisses noch eine vollständige Erfassung aller Rechtsprechung. Der zweite Prüfgang wird in REVIEW.md mit Befunden und Korrekturen dokumentiert. Ohne dokumentierte Prüfung wird keine externe professionelle Freigabe behauptet. Bei einem konkreten Fall sind neue Rechtsentwicklungen sowie der Rechtsstand sämtlicher verwiesener Normen gesondert zu prüfen.
+Die Ausgabe ist ein redaktioneller Arbeitsentwurf. Eine technische Validierung bestätigt weder die Richtigkeit jedes Auslegungsergebnisses noch eine vollständige Erfassung aller Rechtsprechung. Der unabhängige zweite Prüfgang ist in [REVIEW.md](REVIEW.md) mit Befunden und Korrekturen dokumentiert. Er ist keine externe professionelle Begutachtung oder Freigabe. Bei einem konkreten Fall sind neue Rechtsentwicklungen sowie der Rechtsstand sämtlicher verwiesener Normen gesondert zu prüfen.

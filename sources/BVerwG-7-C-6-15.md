@@ -234,4 +234,3 @@ bb) Da­mit kommt es auf die von der Be­klag­ten in die­sem Zu­sam­men­han
 Die Kos­ten­ent­schei­dung be­ruht auf § 154 Abs. 2 Vw­GO.
 
 
-![](<Base64-Image-Removed>)

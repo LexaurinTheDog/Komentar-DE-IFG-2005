@@ -1,0 +1,89 @@
+{
+  "reviewed_at": "2026-10-19T12:34:32.550553+00:00",
+  "checks": [
+    {
+      "id": "p1",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p2",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p3",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p4",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p5",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p6",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p7",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p8",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p9",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p10",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p11",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p12",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p13",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p14",
+      "label_matches": true,
+      "xml_text_matches": true
+    },
+    {
+      "id": "p15",
+      "label_matches": true,
+      "xml_text_matches": true
+    }
+  ],
+  "metadata": "<metadaten><jurabk>IFG</jurabk><amtabk>IFG</amtabk><ausfertigung-datum manuell=\"ja\">2005-09-05</ausfertigung-datum><fundstelle typ=\"amtlich\"><periodikum>BGBl I</periodikum><zitstelle>2005, 2722</zitstelle></fundstelle><kurzue>Informationsfreiheitsgesetz</kurzue><langue>Gesetz zur Regelung des Zugangs zu Informationen des Bundes</langue><standangabe checked=\"ja\"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch Art. 44 V v. 19.6.2020 I 1328</standkommentar></standangabe></metadaten>",
+  "unit_count_matches": true,
+  "xml_units": 15,
+  "annexes": 0,
+  "source_check": {
+    "url": "https://www.gesetze-im-internet.de/ifg/xml.zip",
+    "sha256": "1c25e07d23d7c539745068da0569f5314c15c8d44ec2f0152ae2f454fa3bb435",
+    "matches_initial_zip": true
+  }
+}

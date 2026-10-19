@@ -1,0 +1,23 @@
+[
+  {
+    "name": "BVerwG-7-C-4-11",
+    "url": "https://www.bverwg.de/031111U7C4.11.0",
+    "checked_at": "2026-10-19T12:34:54.798380+00:00",
+    "error": "HTTP Error 403: Forbidden",
+    "fallback": "Vorhandene amtliche Volltextsicherung gelesen; kein neuer Direktabruf gelungen."
+  },
+  {
+    "name": "BVerwG-7-C-6-15",
+    "url": "https://www.bverwg.de/201016U7C6.15.0",
+    "checked_at": "2026-10-19T12:34:55.030583+00:00",
+    "error": "HTTP Error 403: Forbidden",
+    "fallback": "Vorhandene amtliche Volltextsicherung gelesen; kein neuer Direktabruf gelungen."
+  },
+  {
+    "name": "BVerwG-10-C-11-23",
+    "url": "https://www.bverwg.de/260924U10C11.23.0",
+    "checked_at": "2026-10-19T12:34:55.474882+00:00",
+    "error": "HTTP Error 403: Forbidden",
+    "fallback": "Vorhandene amtliche Volltextsicherung gelesen; kein neuer Direktabruf gelungen."
+  }
+]

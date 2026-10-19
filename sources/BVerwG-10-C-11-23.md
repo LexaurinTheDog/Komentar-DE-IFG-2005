@@ -215,4 +215,3 @@ Abschließend weist der Senat darauf hin, dass der Bundesgesetzgeber vergleichba
 Die Kostenentscheidung beruht auf § 154 Abs. 2 und 3, § 161 Abs. 2 sowie § 162 Abs. 3 VwGO. Soweit der Rechtsstreit in der Hauptsache durch übereinstimmende Erledigungserklärungen der Beteiligten erledigt wurde, entspricht es der Billigkeit, dem Beklagten und der Beigeladenen zu 1 die Kosten des Verfahrens entsprechend den Erfolgsaussichten bis zum Eintritt des erledigenden Ereignisses aufzuerlegen.
 
 
-![](<Base64-Image-Removed>)

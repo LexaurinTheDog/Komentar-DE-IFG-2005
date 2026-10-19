@@ -1,0 +1,20 @@
+[
+  {
+    "file": "BVerwG-10-C-11-23.md",
+    "removed": "Leerer Bildplatzhalter des Scrapers",
+    "before_sha256": "bc70119904015091e49b4463b2c69444a8b6d1eaef622312c7749a4c2e1360bd",
+    "after_sha256": "2dfac1a63129023cbabed687b7e4916e664da35a473e02ce8ba76327ad2dcfcc"
+  },
+  {
+    "file": "BVerwG-7-C-4-11.md",
+    "removed": "Leerer Bildplatzhalter des Scrapers",
+    "before_sha256": "960b86c3697867442ef602f3c699732914f33af48d6997aa14ee8da2b2dddafc",
+    "after_sha256": "8d6a3207700987de1107fe30b62c225f550b8e6efd0beec10450f337d2924ffc"
+  },
+  {
+    "file": "BVerwG-7-C-6-15.md",
+    "removed": "Leerer Bildplatzhalter des Scrapers",
+    "before_sha256": "c81b49d6fb9f245d86828bab4979401f619592d23870d9bc02e73a5c34244a11",
+    "after_sha256": "b9c173238e7aa74d2a441c938a118d460e47fd03ca1e6edcd618b66d1323f373"
+  }
+]
