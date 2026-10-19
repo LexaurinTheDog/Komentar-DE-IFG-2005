@@ -1,0 +1,67 @@
+{
+  "expected_units": 15,
+  "parsed_units": 15,
+  "all_exact_except_whitespace": true,
+  "checks": [
+    {
+      "id": "p1",
+      "match_xml": true
+    },
+    {
+      "id": "p2",
+      "match_xml": true
+    },
+    {
+      "id": "p3",
+      "match_xml": true
+    },
+    {
+      "id": "p4",
+      "match_xml": true
+    },
+    {
+      "id": "p5",
+      "match_xml": true
+    },
+    {
+      "id": "p6",
+      "match_xml": true
+    },
+    {
+      "id": "p7",
+      "match_xml": true
+    },
+    {
+      "id": "p8",
+      "match_xml": true
+    },
+    {
+      "id": "p9",
+      "match_xml": true
+    },
+    {
+      "id": "p10",
+      "match_xml": true
+    },
+    {
+      "id": "p11",
+      "match_xml": true
+    },
+    {
+      "id": "p12",
+      "match_xml": true
+    },
+    {
+      "id": "p13",
+      "match_xml": true
+    },
+    {
+      "id": "p14",
+      "match_xml": true
+    },
+    {
+      "id": "p15",
+      "match_xml": true
+    }
+  ]
+}

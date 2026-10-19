@@ -1,0 +1,16 @@
+{
+  "url": "https://www.gesetze-im-internet.de/ifg/xml.zip",
+  "checked_at": "2026-10-19T12:26:59.953548+00:00",
+  "http_status": 200,
+  "sha256_zip": "1c25e07d23d7c539745068da0569f5314c15c8d44ec2f0152ae2f454fa3bb435",
+  "sha256_xml": "f975c709ef696486d9bab88e62d24436b1ae8b7a93b89f6b2e672ad4a73bc4f5",
+  "archive_member": "BJNR272200005.xml",
+  "stand": [
+    "StandZuletzt geändert durch Art. 44 V v. 19.6.2020 I 1328"
+  ],
+  "source_headers": {
+    "Last-Modified": "Fri, 11 Sep 2020 19:35:03 GMT",
+    "ETag": "\"148a-5af0ec806489e\"",
+    "Content-Type": "application/zip"
+  }
+}
